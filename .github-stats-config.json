@@ -5,8 +5,8 @@
   "headerStyle": "mac",
   "hostname": "github.com",
   "typingSpeed": 80,
-  "commands": ["cat bio.txt", "whoami", "neofetch", "languages", "uptime", "exit"],
+  "commands": ["cat welcome.txt", "whoami", "neofetch", "languages", "uptime", "exit"],
   "customCommands": {
-    "cat bio.txt": "Hello Welcome To My Github 🚀"
+    "cat welcome.txt": "Hello , Welcome To My Github 🚀"
   }
 }
