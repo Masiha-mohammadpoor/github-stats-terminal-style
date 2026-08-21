@@ -1,0 +1,12 @@
+{
+  "sourceType": "user",
+  "target": ؛"Masiha-mohammadpoor",
+  "theme": "ubuntu",
+  "headerStyle": "mac",
+  "hostname": "github.com",
+  "typingSpeed": 80,
+  "commands": ["cat bio.txt", "whoami", "neofetch", "languages", "top-repos", "ps", "uptime", "exit"],
+  "customCommands": {
+    "cat bio.txt": "Hello Welcome To My Github 🚀"
+  }
+}
